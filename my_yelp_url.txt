@@ -1,0 +1,3 @@
+Placeholder: https://your-app-id.amplifyapp.com
+Note: In a real `amplify publish`, Amplify prints the deployed URL here.
+
